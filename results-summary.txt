@@ -1,3 +1,3 @@
-Deductions_Table    0.331443
-Earnings_Table      0.324584
+Deductions_Table    0.326423
+Earnings_Table      0.336027
 Name: AVERAGE, dtype: object
